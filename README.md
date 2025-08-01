@@ -33,7 +33,3 @@ A high-performance, secure scoreboard system for QBCore servers with dynamic job
 - FiveM Server
 - QBCore Framework
 - oxmysql
-
-```bash
-cd resources
-git clone https://github.com/yourusername/scoreboard.git [scoreboard]
