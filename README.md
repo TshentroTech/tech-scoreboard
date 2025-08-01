@@ -24,7 +24,6 @@ A high-performance, secure scoreboard system for QBCore servers with dynamic job
 - Real-time Discord usernames & avatars
 - Role-based colored badges
 - Configurable role mappings
-- Cached API calls (5-minute TTL)
 - Secure token handling via server.cfg
 
 ## 🚀 Installation
